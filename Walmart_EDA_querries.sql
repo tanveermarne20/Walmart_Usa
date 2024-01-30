@@ -36,5 +36,24 @@ FROM WALMART_USA;
 
 DESC WALMART_USA;
 
+--Hey , we are working on walmart_usa project 
+--we are doing Exploratory data analysis
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
