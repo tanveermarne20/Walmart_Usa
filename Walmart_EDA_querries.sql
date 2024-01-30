@@ -52,6 +52,10 @@
 --15.How many customers belong to City yangon?
 
 
+--16.Show total number of columns in Walmartusa table
+
+
+
 
 
 
