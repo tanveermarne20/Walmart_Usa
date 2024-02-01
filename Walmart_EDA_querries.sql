@@ -7,7 +7,11 @@
 
 --Generic Questions
 -- 1.How many distinct cities are present in the dataset?
+SELECT* FROM WALMARTUSA;
 
+
+SELECT DISTINCT(CITY)
+FROM WALMARTUSA;
 
 --2.In which city is each branch situated?
 
