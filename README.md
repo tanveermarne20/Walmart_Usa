@@ -38,13 +38,9 @@ The data contains 17 columns and 1000 rows:
 
 > Perform an analysis on the data to gain insights into different product lines, determine the top-performing product lines, and identify areas for improvement in other product lines.
 
-2.	Sales Analysis
-   
-> The objective of this analysis is to address the inquiry regarding the sales trends of the product. The outcomes of this analysis can assist in evaluating the efficiency of each applied sales strategy in the business and determining necessary modifications to increase sales.
+2.	Member Analysis
 
-3.	Customer Analysis
-
-> This analysis is focused on identifying various customer segments, understanding purchasing trends, and evaluating the profitability associated with each of these customer segments.
+> This analysis is focused on identifying various Member segments, understanding Book Issuing trends, and evaluating the profitability associated with each of these Member segments.
 
 ## Approach Used
 ***1.	Data Wrangling***
@@ -85,13 +81,7 @@ Conducting exploratory data analysis is essential to address the project's liste
 11.	What is the most common product line by gender?
 12.	What is the average rating of each product line?
 
-### Sales Analysis
-1.	Number of sales made in each time of the day per weekday
-2.	Identify the customer type that generates the highest revenue.
-3.	Which city has the largest tax percent/ VAT (Value Added Tax)?
-4.	Which customer type pays the most VAT?
-
-### Customer Analysis
+### Member Analysis
 1.	How many unique customer types does the data have?
 2.	How many unique payment methods does the data have?
 3.	Which is the most common customer type?
