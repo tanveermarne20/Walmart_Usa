@@ -5,17 +5,18 @@
 --Conducting exploratory data analysis is essential to address
 --the project's listed questions and objectives.
 
+
 --Generic Questions
 -- 1.How many distinct cities are present in the dataset?
-SELECT* FROM WALMARTUSA;
-
-
 SELECT DISTINCT(CITY)
 FROM WALMARTUSA;
 
 --2.In which city is each branch situated?
-
+SELECT DISTINCT BRANCH,CITY
+FROM WALMARTUSA
+ORDER BY BRANCH;
 --3.How many Male customer are there?
+
 
 --4.List out all Male customer.
 
@@ -55,23 +56,10 @@ FROM WALMARTUSA;
 
 --15.How many customers belong to City yangon?
 
-
 --16.Show total number of columns in Walmartusa table
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+SELECT COUNT(*) AS MA
+FROM WALMARTUSA;
+SELECT COUNT(*)
+FROM WALMARTUSA;
 
